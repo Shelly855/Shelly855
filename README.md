@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shelly855
-- 🌱 I’m currently learning **C#** and **Web Development**
-- 🔭 I’m working on learning **Azure AI** for a project
+- 🌱 I’m currently learning **C#**, **Web Development**, & **Python**
+- 🔭 I’m working on a project involving biotech, Azure AI, & cloud services
 - 📫 How to reach me:
 Email: shellyyang855@gmail.com
 LinkedIn: www.linkedin.com/in/syang-software
