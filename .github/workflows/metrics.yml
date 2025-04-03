@@ -17,16 +17,14 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-
+          config_output: true
+          clean_workflow_cache: true
           base: header, activity, repositories
-
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 6
           plugin_languages_ignored: html, css
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
           plugin_lines: yes
           plugin_followup: yes
