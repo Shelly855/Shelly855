@@ -20,6 +20,8 @@ jobs:
           clean_workflow_cache: true
           base: header, activity
           plugin_issues: no
+          plugin_repositories: no
+          plugin_prs: no   
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 6
