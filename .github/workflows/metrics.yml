@@ -18,7 +18,8 @@ jobs:
           filename: github-metrics.svg
           config_output: true
           clean_workflow_cache: true
-          base: header, activity, repositories
+          base: header, activity
+          plugin_issues: no
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 6
