@@ -4,5 +4,3 @@
 Email: shellyyang855@gmail.com
 LinkedIn: www.linkedin.com/in/shellyyang1
 - ⚡ Fun fact: I like writing stories
-
-![GitHub Metrics](./github-metrics.svg)
